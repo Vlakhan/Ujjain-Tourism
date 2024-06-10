@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "725469523826",
+    "project_id": "ujjaintourism-81769",
+    "storage_bucket": "ujjaintourism-81769.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725469523826:android:559f928adaf8a166d877eb",
+        "android_client_info": {
+          "package_name": "com.developer.ujjaintourism"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "725469523826-en619s139h5vo20s6c97fj9aq7j49sdp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developer.ujjaintourism",
+            "certificate_hash": "2b441d3b031e38ef3440f246db75ec57d710897e"
+          }
+        },
+        {
+          "client_id": "725469523826-fl6rm8bd9dtpb4in1pp4kkqqf2li0fq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1F568MhTA6KphHN0v8dFswhbK76ZhIo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "725469523826-fl6rm8bd9dtpb4in1pp4kkqqf2li0fq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

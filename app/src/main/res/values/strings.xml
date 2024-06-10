@@ -1,0 +1,248 @@
+<resources>
+    <string name="app_name">Ujjain  Tourism</string>
+
+    //common
+
+
+    <string name="openall">24 Hours open</string>
+    <string name="onestar">1 star</string>
+    <string name="twostar">2 star</string>
+    <string name="threestar">3 star</string>
+    <string name="fourstar">4 star</string>
+    <string name="fivestar">5 star</string>
+
+    //common
+
+    //Hotels
+
+    <string name = "ambika">
+        <a href = "https://abikahotels.com/">Visit official website</a>
+    </string>
+
+    <string name = "anandam">
+        <a href = "https://www.theaanandam.in/">Visit official website</a>
+    </string>
+
+    <string name = "anjushree">
+        <a href = "https://anjushree.com/">Visit official website</a>
+    </string>
+
+    <string name = "apna">
+        <a href = "https://apnasweets.com/">Visit official website</a>
+    </string>
+
+    <string name = "atharva">
+        <a href = "https://www.thehotelatharva.com/">Visit official website</a>
+    </string>
+
+    <string name = "avantika">
+        <a href = "https://hotelavantika.com/">Visit official website</a>
+    </string>
+
+    <string name = "embassy">
+        <a href = "https://hotelembassy.co.in/">Visit official website</a>
+    </string>
+
+    <string name = "imperial">
+        <a href = "https://hotelimperialgrand.com/">Visit official website</a>
+    </string>
+
+    <string name = "meghdoot">
+        <a href = "https://www.makemytrip.com/hotels/meghdoot_hotel_resort-details-ujjain.html">Know more</a>
+    </string>
+
+    <string name = "mittal">
+        <a href = "https://mittalresorts.in/">Visit official website</a>
+    </string>
+
+    <string name = "park">
+        <a href = "https://hotelparkpalace.in/">Visit official website</a>
+    </string>
+
+    <string name = "president">
+        <a href = "https://www.hotelpresident.it/">Visit official website</a>
+    </string>
+
+    <string name = "rajkumar">
+        <a href = "https://restaurant-guru.in/Rajkumar-Restaurant-Ujjain">Know more</a>
+    </string>
+
+    <string name = "rudraksh">
+        <a href = "https://www.rudrakshresorts.com/">Visit official website</a>
+    </string>
+
+    <string name = "shikhar">
+        <a href = "https://hotelshikharinnujjain.com/">Visit official website</a>
+    </string>
+
+    <string name = "shipra">
+        <a href = "https://www.makemytrip.com/hotels/mpt_shipra_residency_ujjain-details-ujjain.html">Know more</a>
+    </string>
+
+    <string name = "shiv">
+        <a href = "https://www.makemytrip.com/hotels/hotel_shiv_palace-details-ujjain.html">Know more</a>
+    </string>
+
+    <string name = "ganga">
+        <a href = "https://shreeganga.in/">Visit official website</a>
+    </string>
+
+    <string name = "solitair">
+        <a href = "http://www.hotelsolitaireujjain.com/">Visit official website</a>
+    </string>
+
+    //Hotels
+
+    //Temples
+    <string name = "angareshwar">The shivaling at this temple is belived to be swayambhu or self manifested, It is the place know for specially bhaat pooja, Angareshwar is also one of the 18 mahasaktipeethas of india.
+        <a href = "https://www.abplive.com/states/madhya-pradesh/angareshwar-mahadev-in-ujjain-is-famous-for-bhaat-puja-mangalik-dosh-removes-by-visiting-it-ann-1995036">more</a>
+    </string>
+    <string name = "badeganesh">The most iconic thing about the temple is the massive artistic sculpture of Lord Ganesha - the Lord of wisdom and prosperity - that adorns its premises.
+        <a href = "https://navbharattimes.indiatimes.com/?back=1 ">more</a>
+    </string>
+    <string name = "bharatmata">This temple is dedicated to the Bharat Mata and is located near Mahakaleshwar Temple. It is connected to Mahakal Lok and can be visited from there.
+        <a href = "http://www.hotelsolitaireujjain.com/">more</a>
+    </string>
+    <string name = "bhookimata">This temple is associated with the legend of King Vikramaditya to become king. Recognizing that youth are sacrificed every day the mother was hungry. The young boy was declared king of Ujjain, then hungry mother was eating it. See the sad lament of a young mother had promised her that her son’s place Vikramaditya king of the city and hungry mother will suffer.
+        <a href = "https://www.patrika.com/ujjain-news/bhukhi-mata-temple-in-ujjain-samrat-vikramaditya-5161520/">more</a>
+    </string>
+    <string name = "chardham">One of the most beautiful temples of Ujjain where you can feel of visiting all the four Chardhams – Badrinath, Kedarnath, Gangotri and Yamunotri. It is located behind the Mahakaleswar temple
+        <a href = "https://www.travelwithpreeti.in/2021/12/shri-chardham-temple-ujjain.html">more</a>
+    </string>
+    <string name = "choubiskhamba">It is one of the oldest temples in Ujjain, and among the most popular places of sightseeing in Ujjain. Dating back to the 9th or 10th century, the temple is dedicated to Chhoti Mata and Badi Mata and is hailed as a holy site among the followers of Hinduism. It is an architectural marvel that was built during the times of King Vikramaditya.
+        <a href = "https://hindi.webdunia.com/simhastha-religious-place/24-khamba-mata-116042400033_1.html">more</a>
+    </string>
+    <string name = "chintaman">Chintaman Ganesh is the biggest temple of Lord Ganesha in Ujjain of Madhya Pradesh, India. This temple is built across the Kshipra river on the Fatehabad railway line, and is located about 7 km far south-westerly to the Ujjain town. The temple is located now in the middle of the town\'s market.
+        <a href = "https://hindi.webdunia.com/article/116040500058_1.html">more</a>
+    </string>
+    <string name = "gadhkalika">Gadkalika Temple is an ancient Hindu shrine dedicated to Goddess Kali that dates back to the period of the Mahabharata war. However, the idol of Goddess Kalika is said to be even older than the temple as it is claimed to be of the era of Satyuga.
+        <a href = "https://hindi.webdunia.com/religious-journey-articles/gadkalika-temple-ujjain-116121600049_1.html">more</a>
+    </string>
+    <string name = "gopal">Gopal Mandir also called as Dwarkadhish temple is the second largest temple of Ujjain after Mahakaleshwar and is dedicated to Lord Krishna, in Ujjain City, It was built by Bayaji bai Shinde, the wife of Maratha King Daulatrao Scindia in the 19th century in Maratha Style. It is located in the main market of Ujjain.
+        <a href = "https://www.jagran.com/news/national-110-year-old-tradition-shree-dwarkadheesh-gopal-mandir-in-ujjain-jagran-special-19512384.html">more</a>
+    </string>
+    <string name = "harsiddhi">Dedicated goddess Parvati, Harsiddhi Temple is one of the 51 Shaktipeeths of Mata Sati. According to the legend, when Goddess Parvati had gone into the sacrificial fire, Lord Shiva carried her body and her elbow is fell here and thus the temple came into existence. The main deity is colored with dark vermillion color in the center of a very large temple complex.
+        <a href = "https://hindi.holidayrider.com/harsiddhi-mata-temple-ujjain-in-hindi/">more</a>
+    </string>
+    <string name = "iskon">The ISKCON temple in Ujjain, also called Radha Madhana Mohan Temple is located near the Nanakheda Bus stand. Ujjain has special significance for Krishna’s followers since Krishna, Balaram and Sudama are believed to have received their education from Maharishi Sandipani in this city. The temple complex is made of white marble stone with lush green well maintained lawns
+        <a href = "https://iskconujjain.com/">more</a>
+    </string>
+    <string name = "jagdees">Jagdish temple a small temple built a Odia merchant in ujjain, built in 19century, temple also hold yearly ratha yatra
+        <a href = "https://www.justdial.com/Ujjain/Jagdish-Mandir-Kartik-Chowk/9999PX734-X734-190117164102-U4A2_BZDET">more</a>
+    </string>
+    <string name = "kalbhairav">The Kal Bhairav temple is a Hindu temple located in the Ujjain city of Madhya Pradesh, India. It is dedicated to Kal Bhairav, the guardian deity of the city. Located on the banks of the Shipra River, it is one of the most active temples in the city, visited by hundreds of devotees daily
+        <a href = "https://www.bhaskar.com/religion/dharam/ujjain-kaal-bhairav-mandir-01343098.html">more</a>
+    </string>
+    <string name = "kalyanman">About 2,100 years ago, Acharya Siddhasen Divakarsuri composed this source in Avanti Nagar (now Ujjain). It has a total of 44 gathas. In view of the importance, a new temple with 45 shikhars has been built with white marble Shri Kalyan Mandir Navagraha on Dharam Badla located on Badnagar Road. The idols of Lord Parshwanath will be installed in each shikhar temple.
+        <a href = "http://www.hotelsolitaireujjain.com/">more</a>
+    </string>
+    <string name = "mahakal">Mahakaleshwar Jyotirlinga is a Hindu temple dedicated to lord Shiva and is one of the twelve Jyotirlingas, India. The temple is situated on the side of the holy river Shipra.
+        <a href = "https://shrimahakaleshwar.com/">more</a>
+    </string>
+    <string name = "mangalnath">The Mangalnath Temple is a Hindu temple located in the Ujjain city of Madhya Pradesh. It is dedicated to Mahadeva, the guardian deity of the city. Located on the banks of the Shipra River, it is one of the most active temples in the city, visited by hundreds of devotees daily
+        <a href = "https://www.aajtak.in/religion/spirituality/story/mangalnath-mandir-hindu-temple-ujjain-city-madhya-pradesh-significance-tlifd-1129966-2020-09-16">more</a>
+    </string>
+
+    <string name = "navgrah">The Navagraha temple was built by Ahom ruler Rajeswar Singha, son of Rudra Singha in the late 18th century, During a devastating earthquake in Assam the temple was partly destroyed.
+        <a href = "https://mysticpower.in/navgrah-shani-mandir-ujjain/">more</a>
+    </string>
+
+
+
+    <string name = "radha_madan">Triveni Ghat Sri Saneeshwara Navagraha Temple is located on the bank of river shipra. This is one of the famous temples of Ujjain. This is a temple for NAVGRAH with the deity of SHANI DEV as the main. The deities of the nine planets are housed in 9 different chambers.
+        <a href = "https://mysticpower.in/navgrah-shani-mandir-ujjain/">more</a>
+    </string>
+
+    <string name = "prasanti">
+        <a href = "https://www.justdial.com/Ujjain/Prashanti-Dham-Abhishek-Nagar/9999PX734-X734-180321124607-G3E5_BZDET">Know more</a>
+    </string>
+    <string name = "radhamadan">The ISKCON Ujjain Temple, also known as the Sri Sri Radha Madan Mohan Temple, is a prominent religious site located in Ujjain, Madhya Pradesh, India. It is part of the International Society for Krishna Consciousness (ISKCON) and serves as a center for spiritual activities, devotional practices, and cultural events.
+    </string>
+    <string name = "ramghat">This place have story that is Lord Ram has taken bath after shraddh of Dashrath (his father). Here is no need of queue because its very long. Extremely popular as the venue of the famous Kumbh Mela in Ujjain, Ram Ghat is one of the biggest pilgrim places in India. It is where millions of pilgrims gather during the event. The aarti here is renowned and the ghat is known to be the oldest bathing ghat in Ujjain.
+        <a href = "https://www.travelwithpreeti.in/2021/12/ramghat-ujjain.html">more</a>
+    </string>
+    <string name = "ramjanki">Shree Ram Janardan Temple in the Ankpat Kshetra constructed in 17th century. It has the temples of Shree Ram and Janardan (Vishnu). The site appears to have been an ancient temple site as many of the images installed therein belong to the tenth and the twelfth centuries. That should place this site to the period of the Parmaras. Later, the Marathas constructed a boundary wall around it and a kund during the 18th century.
+        <a href = "https://ujjain.nic.in/tourist-place/%E0%A4%B0%E0%A4%BE%E0%A4%AE-%E0%A4%9C%E0%A4%A8%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%A6%E0%A4%A8-%E0%A4%AE%E0%A4%82%E0%A4%A6%E0%A4%BF%E0%A4%B0/">more</a>
+    </string>
+
+
+    // temples
+
+
+    //wonders
+
+
+    <string name = "bharathari">Bhartrihari, the step brother of Vikramaditya, is believed to have lived and meditated here after renouncing worldly life. His famous works, Shringarshataka, Vairagyashataka, and Nitishataka, were possibly written here.
+        <a href = "https://www.travelwithpreeti.in/2021/12/bhartrihari-caves-ujjain.html">more</a>
+    </string>
+    <string name = "chandesari">
+        <a href = "https://chandesari-resort-the-adventure-park.business.site/">Visit official website</a>
+    </string>
+    <string name = "gomti"> According to legend, Lord Krishna collected the water of holy rivers from different pilgrimage centres and put it in here. The kind is also home to a lot of monkeys! The Sandipani Ashram is named after the saint who was the teacher of Lord Krishna and his brothers. The ashram has a temple dedicated to Lord Shiva that is a must-visit while you are at the kund. At this temple, the figure of Nandi (bull god) stands guard in front of Lord Shiva.
+        <a href = "http://ujjainsandipaniashram.com/gomati-kund">more</a>
+    </string>
+    <string name = "jantar">The observatory is one of the five observatories built by Maharaja Jai Singh II when he was governor of Ujjain.Vedh Shala was constructed with the aim of measuring local time, altitude (of the place) and also to measure declination of the Sun, stars and planets and to determine eclipses. Motion, speed and properties of stars and planets were also recorded using several special instruments.
+        <a href = "https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A4%82%E0%A4%A4%E0%A4%B0_%E0%A4%AE%E0%A4%82%E0%A4%A4%E0%A4%B0,_%E0%A4%89%E0%A4%9C%E0%A5%8D%E0%A4%9C%E0%A5%88%E0%A4%A8">more</a>
+    </string>
+    <string name = "kaliadeh">Kaliadeh Palace is a palace located on the banks of Shipra in Ujjain, Madhya Pradesh. It is one of the most famous historical landmarks of Ujjain. Once recorded as beautiful temple of the Sun on thebanks of River Shipra with two tanks named Surya Kunda and Brahma Kunda
+        <a href = "https://hindi.webdunia.com/simhastha-religious-place/kaliyadeh-mahal-116042400034_1.html">more</a>
+    </string>
+    <string name = "kalidas">In honour of a literary man Kalidasa who contributed a lot in exhibiting the Indian culture to the world through his writings an academy has been set up in Ujjain by the Madhya Pradesh Government. The academy set up in the year 1978 also provides a platform of research to students from the field of arts and literature
+        <a href = "https://www.kalidasacademy.com/kalidasa-akademi/">more</a>
+    </string>
+    <string name = "kothi">It is a magnificent building constructed under the rule of Madhavrao Scindia with the help of the British Regency Council who also contributed 8 lakhs towards its construction. The work started in 1887 and was finished in 1888.
+        <a href = "https://www.naidunia.com/madhya-pradesh/ujjain-changed-to-mahalothimahalho-hotello-hotelmohotel-hotel-7256429">more</a>
+    </string>
+    <string name = "mahakallok">On Tuesday, October 11, Prime Minister Narendra Modi inaugurated Mahakal Lok, the 920-metre-long mega corridor near the Mahakaleshwar Jyotirlinga temple in Ujjain, Madhya Pradesh. According to reports, during the inauguration, PM Modi removed the curtain by remote from the Shivling, which is made of the Raksha Sutra.
+        <a href = "https://www.techuhelp.com/mahakal-lok-kya-hai/">more</a>
+    </string>
+    <string name = "mayur">The van has been developed at a cost of Rs 4 crore. On Saturday, Mayor Mukesh Tatwal, UMC speaker Kalavati Yadav and Commissioner Raushan Kumar Singh cleaned the van premises. Mayur Van has been developed on about seven hectares. A large blooming lotus has been made at the gate
+        <a href = "https://ujjainsmartcity.com/hi/departments/%E0%A4%AE%E0%A4%AF%E0%A5%82%E0%A4%B0-%E0%A4%B5%E0%A4%A8/">more</a>
+    </string>
+    <string name = "naulakhi">Naulakhi Eco Tourism Park is a Park in Ujjain, Madhya Pradesh.
+        <a href = "https://www.redgostories.com/tourist-place-visit-of-ujjain-in-hindi">more</a>
+    </string>
+    <string name = "taramandal">This is a wonderful place where you can not only get to know Ujjain\'s ancient history and geography very well but also you can understand space science in a wonderful way.
+        <a href = "https://www.bhaskar.com/local/mp/ujjain/news/states-first-scientific-memorial-and-museum-of-freedom-fighters-will-be-built-in-the-planetarium-of-ujjain-129224459.html">more</a>
+    </string>
+    <string name = "triveni">Triveni Museum is a must-see tourist attraction in the city of Ujjain. It is a newly-constructed museum that exhibits various artifacts that were discovered during the excavations. There are several artifacts that date back to the period between 6th-9th centuries and a majority of them belongs to the Hindu religious figurines like Lord Shiva &amp; Lord Vishnu.
+        <a href = "http://www.hotelsolitaireujjain.com/">more</a>
+    </string>
+    <string name = "vikram">Built in commemoration of the beloved king Vikramaditya, the Vikram Kirti Mandir Museum does a great deal in glorifying and exalting the Maurya age. Built in 1965, this museum houses everything- right from ancient manuscripts and coins to copper plates and fossils discovered in the Narmada Valley.
+        <a href = "https://www.bhaskar.com/local/mp/ujjain/news/vikram-universitys-two-day-workshop-and-lecture-series-held-at-vikram-kirti-mandir-131548041.html">more</a>
+    </string>
+    <string name = "vikramaditya">The Vikramaditya Statue is a 30 feet statue of Indian King Vikramaditya at Vikram Teela behind Mahakal Temple in the Indian holy city of Ujjain, Madhya Pradesh. The Statue is made of brass with a cost of ₹1 crore by Ujjain Municipal Corporation.
+        <a href = "https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%BE%E0%A4%A6%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%AF_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%A4%E0%A4%BF%E0%A4%AE%E0%A4%BE">more</a>
+    </string>
+
+
+    //wonders
+
+
+    //malls
+
+    <string name = "cosmos">
+        <a href = "http://cosmosujjain.in/contact.php">Visit official website</a>
+    </string>
+
+    <string name = "pakiza">
+        <a href = "https://pakiza.co.in/our-store">Visit official website</a>
+    </string>
+
+    <string name = "DMart">
+        <a href = "https://www.dmart.in/">Visit official website</a>
+    </string>
+
+    <string name = "vishal">
+        <a href = "https://www.vishalmegamart.com/">Visit official website</a>
+    </string>
+
+    <string name = "V">
+        <a href = "https://stores.vmartretail.com/v-mart-freeganj-ujjain-30706/home">Visit official website</a>
+    </string>
+
+
+    //malls
+
+
+</resources>
